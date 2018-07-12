@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="C:\Users\rallahwerdy\Documents\My Translated Projects\NewProject257.liprjf" SourceControlDatabase="C:\Users\rallahwerdy\Documents\My Translated Projects\NewProject257.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="dec9fe32-e1d6-41a5-8828-1164d3a77d5d">
+    <ProjectFile Source="Target/Elastic1.flprj" Target="Target/Elastic1.flprj" />
+</LingoProject>
